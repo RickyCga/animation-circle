@@ -17,6 +17,6 @@ while 1
             colorNumber=1;
         end
     end
-hold off
-pause(0.03)
+    hold off
+    pause(0.03)
 end
